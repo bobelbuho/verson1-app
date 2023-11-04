@@ -1,0 +1,13 @@
+.image {
+    height: 78px;
+    width: 74px;
+  }
+  
+  .image .logo {
+    height: 78px;
+    left: 0;
+    object-fit: cover;
+    position: fixed;
+    top: 0;
+    width: 74px;
+  }
